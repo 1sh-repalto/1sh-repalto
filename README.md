@@ -8,7 +8,7 @@
 ### 🛠️ What I Work With
 
 I like to pick up new technologies by building real-world projects.  
-My stacks evolve as I learn — currently leaning into **Go** and **Next.js**.
+My stacks evolve as I learn — these days I'm leaning into **Go** and **Next.js**.
 
 ### 🧠 Skills
 
