@@ -47,7 +47,7 @@ My stacks evolve as I learn — these days I'm leaning into **Go** and **Next.js
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| [💸 Personal Finance Tracker](https://github.com/1sh-repalto/finance-tracker) *(in progress)* | Track income and expenses with categorized and visualized data | React, Express, PostgreSQL, TypeScript |
+| [💸 Personal Finance Tracker](https://github.com/1sh-repalto/finance-tracker) | Track income and expenses with categorized and visualized data | React, Express, PostgreSQL, TypeScript |
 | [🧪 A/B Testing Platform](https://github.com/1sh-repalto/ab-testing-platform) *(in progress)* | Full-featured experimentation platform with variant assignment, SDK, and tracking | Go, Next.js, TypeScript, PostgreSQL |
 
 ---
