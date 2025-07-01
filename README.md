@@ -46,8 +46,8 @@ My stacks evolve as I learn — these days I'm leaning into **Go** and **Next.js
 ### 🚀 Projects I’m Building
 
 | Project | Description | Stack |
-|--------|-------------|-------|
-| [💸 Personal Finance Tracker](https://github.com/1sh-repalto/finance-tracker) | Track income and expenses with categorized and visualized data | React, Express, PostgreSQL, TypeScript |
+|---------|-------------|-------|
+| [🌐 URL Monitoring API](https://github.com/1sh-repalto/url-monitoring-api) *(in progress)* | Production-grade API to monitor and manage user-registered URLs with authentication, persistence, and observability | Go, PostgreSQL, JWT, Clean Architecture, Docker |
 | [🧪 A/B Testing Platform](https://github.com/1sh-repalto/ab-testing-platform) *(in progress)* | Full-featured experimentation platform with variant assignment, SDK, and tracking | Go, Next.js, TypeScript, PostgreSQL |
 
 ---
